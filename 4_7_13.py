@@ -49,6 +49,4 @@ def plot_function():
     plt.show()
 
 
-if __name__ == "__main__":
-    print("Обчислення функції та побудова графіка.")
-    plot_function()
+plot_function()
